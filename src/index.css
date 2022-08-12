@@ -1,0 +1,17 @@
+body {
+  
+  padding: 50px;
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
